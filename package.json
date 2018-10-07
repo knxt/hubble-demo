@@ -1,0 +1,25 @@
+{
+  "name": "hubble-demo",
+  "version": "1.0.0",
+  "description": "Demo for Hubble (npm install ethhubble)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knxt/hubble-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knxt/hubble-demo/issues"
+  },
+  "homepage": "https://github.com/knxt/hubble-demo#readme",
+  "dependencies": {
+    "eth-crypto": "^1.2.4",
+    "ipfs": "^0.32.3",
+    "orbit-db": "^0.19.9",
+    "web3": "^1.0.0-beta.36"
+  }
+}
